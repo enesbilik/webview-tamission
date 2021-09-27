@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103637060634",
+    "project_id": "tamission-882f1",
+    "storage_bucket": "tamission-882f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103637060634:android:704b6dba7860a6cca195a3",
+        "android_client_info": {
+          "package_name": "com.tamission"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103637060634-vlogr8s2ea67rdrhfc2lor5pvc41glhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9BrMFm7VDH2DxcNpaRXJYKlrHZvl2ASQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103637060634-vlogr8s2ea67rdrhfc2lor5pvc41glhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
